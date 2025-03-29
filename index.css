@@ -1,0 +1,13 @@
+
+body{
+  display: flex;
+  flex-direction: column;
+  padding-top: 20px;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+canvas{
+  background-color: #777777;
+}
